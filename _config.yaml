@@ -1,0 +1,17 @@
+hero: 
+  persona: Coder
+  activity: Developing
+  subject: SaaS
+problem:
+  villain: 
+  internal: Need to Develop a SaaS Product
+  external: Unsure of the best SaaS Tech Stack
+  philosophical: Code vs No Code
+guide: SaaS.Dev
+plan: Headless SaaS Platform
+action: 
+  - Build
+  - Launch
+  - Grow
+failure: Lifetime of regrets
+success: Launch a successful product
