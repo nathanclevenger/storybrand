@@ -1,18 +1,20 @@
-Hero: 
-  Persona: Coder
-  Activity: Developing
-  Subject: SaaS
-Problem:
-  Villain: 
-  Internal: Need to Develop a SaaS Product
-  External: Unsure of the best SaaS Tech Stack
-  Philosophical: Code vs No Code
-Guide: SaaS.Dev
-Plan: Headless SaaS Platform
-Action: 
-  - Build: Get Started for Free
-  - Launch: Iterate Quickly with user feedback
-  - Grow: Scale with your customers
-Failure: Lifetime of regrets
-Transformation: Become a SaaS Expert
-Success: Launch a successful product
+
+story:
+  Hero: 
+    Persona: Coder
+    Activity: Developing
+    Subject: SaaS
+  Problem:
+    Villain: 
+    Internal: Need to Develop a SaaS Product
+    External: Unsure of the best SaaS Tech Stack
+    Philosophical: Code vs No Code
+  Guide: SaaS.Dev
+  Plan: Headless SaaS Platform
+  Action: 
+    - Build: Get Started for Free
+    - Launch: Iterate Quickly with user feedback
+    - Grow: Scale with your customers
+  Failure: Lifetime of regrets
+  Transformation: Become a SaaS Expert
+  Success: Launch a successful product
