@@ -10,7 +10,7 @@ problem:
 guide: SaaS.Dev
 plan: Headless SaaS Platform
 action: 
-  - Build
+  - Build: Get Started for Free
   - Launch
   - Grow
 failure: Lifetime of regrets
