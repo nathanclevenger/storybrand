@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+  <!--  Meta  -->
+  <meta charset="UTF-8" />
+  <!-- HTML Meta Tags -->
+  <title>{{ site.title }}</title>
+  <meta name="description" content="{{ site.description }}">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Google / Search Engine Tags -->
+  <meta itemprop="name" content="{{ site.title }}">
+  <meta itemprop="description" content="{{ site.description }}">
+  <meta itemprop="image" content="{{ site.image | default: 'https://opengraph.githubassets.com/0b7b051d3a37b58ffe0b3c9abc1f8c179c0e698c70135a53186224ec1b1c7b56/nathanclevenger/ship' }}">
+
+  <!-- Facebook Meta Tags -->
+  <meta property="og:url" content="https://{{ site.name | default: 'story.brands.as' }}">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="{{ site.title }}">
+  <meta property="og:description" content="{{ site.description }}">
+  <meta property="og:image" content="{{ site.image | default: 'https://opengraph.githubassets.com/0b7b051d3a37b58ffe0b3c9abc1f8c179c0e698c70135a53186224ec1b1c7b56/nathanclevenger/ship' }}">
+
+  <!-- Twitter Meta Tags -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ site.title }}">
+  <meta name="twitter:description" content="{{ site.description }}">
+  <meta name="twitter:image" content="{{ site.image | default: 'https://opengraph.githubassets.com/0b7b051d3a37b58ffe0b3c9abc1f8c179c0e698c70135a53186224ec1b1c7b56/nathanclevenger/ship' }}">
+  
+  <script src="https://cdn.tailwindcss.com?plugins=forms,typography,aspect-ratio,line-clamp"></script>
+  <script defer src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js"></script>
+  
+</head>
+<body>
+  {% include hero.html %}
+  {% include logos.html %}
+  {% include features.html %}
+  {% include stats.html %}
+  {% include cta.html %}
+  {% include footer.html %}
+</body>
+</html>
