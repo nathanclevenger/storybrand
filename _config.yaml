@@ -9,12 +9,24 @@ story:
     Internal: Need to Develop a SaaS Product
     External: Unsure of the best SaaS Tech Stack
     Philosophical: Code vs No Code
-  Guide: SaaS.Dev
-  Plan: Headless SaaS Platform
+  Guide: 
+    Name: SaaS.Dev
+    Empathy: 
+    Authority: 
+  Plan: 
+    Offer: Headless SaaS Platform
+    Process: 
+    Agreement:
   Action: 
-    - Build: Get Started for Free
-    - Launch: Iterate Quickly with user feedback
-    - Grow: Scale with your customers
-  Failure: Lifetime of regrets
-  Transformation: Become a SaaS Expert
-  Success: Launch a successful product
+    Direct:
+    Transitional:
+      - Build: Get Started for Free
+      - Launch: Iterate Quickly with user feedback
+      - Grow: Scale with your customers
+  Failure: 
+    - Lifetime of regrets
+  Transformation:
+    From: 
+    To: 
+  Success: 
+    - Launch a successful product
