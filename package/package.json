@@ -1,0 +1,25 @@
+{
+  "name": "storybrand",
+  "version": "0.1.0",
+  "description": "StoryBrand Types & Schema",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "generate-schema": "ts-json-schema-generator --path 'index.ts' --type '*' --out 'schema.json'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathanclevenger/storybrand.git"
+  },
+  "author": "Nathan Clevenger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nathanclevenger/storybrand/issues"
+  },
+  "devDependencies": {
+    "ts-json-schema-generator": "^1.1.2",
+    "typescript": "^4.8.4"
+  },
+  "homepage": "https://github.com/nathanclevenger/storybrand"
+}
