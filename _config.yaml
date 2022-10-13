@@ -31,11 +31,11 @@ story:
   Success: 
     - Launch a successful product
 
-
-- The Header (very few words to explain your offer)
-- The Stakes (what are you saving customers from)
-- The Value Prop (what are the benefits to the customer)
-- The Guide (introduce your brand who can solve your problem)
-- The Plan (the path to do business with us and solve your problem)
-- The Explanatory Paragraph (the long-form story brand)
-- The Price Choices (Your list of products/offers)
+content:
+  - The Header (very few words to explain your offer)
+  - The Stakes (what are you saving customers from)
+  - The Value Prop (what are the benefits to the customer)
+  - The Guide (introduce your brand who can solve your problem)
+  - The Plan (the path to do business with us and solve your problem)
+  - The Explanatory Paragraph (the long-form story brand)
+  - The Price Choices (Your list of products/offers)
