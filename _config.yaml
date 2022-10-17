@@ -11,17 +11,17 @@ story:
     Philosophical: Code vs No Code
   Guide: 
     Name: SaaS.Dev
-    Empathy: We have struggled to get many SaaS products off the ground
-    Authority: 
+    Empathy: We know what its like to build a SaaS from scratch
+    Authority: We h
   Plan: 
     Offer: Headless SaaS Platform
     Process: 
-      Build: Get Started for Free
-      Launch: Iterate Quickly with User Feedback
+      Build: Create your SaaS in minutes
+      Launch: Iterate quickly with user feedback
       Grow: Scale with your Customers
     Agreement:
   Action: 
-    Direct: Sign up
+    Direct: Get Started for Free
     Transitional: Learn more
   Failure: 
     - Lifetime of regrets
