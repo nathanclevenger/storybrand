@@ -5,7 +5,7 @@ story:
     Activity: Developing
     Subject: SaaS
   Problem:
-    Villain: 
+    Villain: Analysis Paralysis
     Internal: Need to Develop a SaaS Product
     External: Unsure of the best SaaS Tech Stack
     Philosophical: Code vs No Code
@@ -16,13 +16,13 @@ story:
   Plan: 
     Offer: Headless SaaS Platform
     Process: 
+      Build: Get Started for Free
+      Launch: Iterate Quickly with User Feedback
+      Grow: Scale with your Customers
     Agreement:
   Action: 
     Direct:
     Transitional:
-      - Build: Get Started for Free
-      - Launch: Iterate Quickly with user feedback
-      - Grow: Scale with your customers
   Failure: 
     - Lifetime of regrets
   Transformation:
@@ -30,6 +30,7 @@ story:
     To: 
   Success: 
     - Launch a successful product
+
 
 content:
   - The Header (very few words to explain your offer)
@@ -97,6 +98,8 @@ Sample: |
 At {Company Name} we know you are the kind of people who want to be {aspirational identity. What kind of person do they want to become?}
 In order to be that way, you need {as it relates to your product, what does your customer want?}. The problem is {what is the problem holding them back},
 which makes you feel {how is the problem making them feel?}. We believe {why is it just plain wrong that anybody should have to deal with that problem}.
-We understand {include an empathetic statement}.  That is why we {demonstrate competency to solve their problem}.
+We understand {include an empathetic statement}.  That is why we {demonstrate competency to solve their problem}. Here is how it works
+{step 1, step 2, and step 3}. So {call them to action} so that you can stop {what negative thing will happen if they do not order} and start
+{what will their life look like if they do place an order}.
   
   
