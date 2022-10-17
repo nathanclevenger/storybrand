@@ -12,7 +12,7 @@ story:
   Guide: 
     Name: SaaS.Dev
     Empathy: We know what its like to build a SaaS from scratch
-    Authority: We h
+    Authority: Powering thousands of SaaS products
   Plan: 
     Offer: Headless SaaS Platform
     Process: 
@@ -24,7 +24,8 @@ story:
     Direct: Get Started for Free
     Transitional: Learn more
   Failure: 
-    - Lifetime of regrets
+    - Struggle to get started building
+    - 
   Transformation:
     From: 
     To: 
