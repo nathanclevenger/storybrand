@@ -25,12 +25,13 @@ story:
     Transitional: Learn more
   Failure: 
     - Struggle to get started building
-    - 
+    - Second-guessing your architecture
   Transformation:
     From: 
     To: 
   Success: 
-    - Launch a successful product
+    - Rapidly Build & Launch your SaaS
+    - 
 
 
 content:
