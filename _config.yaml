@@ -49,59 +49,59 @@ questions:
   - What do thet need to do to buy it?
   
   
-header:
-  clear statement of what you offer:
-  sentence of how it makes your customers life better:
-  transitional call to action:
-  direct call to action:
-  value stack:
-    -
-    -
-    -
-stakes:
-  What is the cost of not doing business with you?:
-  What are you helping customers overcome or avoid?:
+# header:
+#   clear statement of what you offer:
+#   sentence of how it makes your customers life better:
+#   transitional call to action:
+#   direct call to action:
+#   value stack:
+#     -
+#     -
+#     -
+# stakes:
+#   What is the cost of not doing business with you?:
+#   What are you helping customers overcome or avoid?:
   
-value prop:
-  What value will your customer recieve if they do business with you?:
-  Tell your customer everything they get:
-  Be specific. Be Visual.:
-  Include a headline: 
+# value prop:
+#   What value will your customer recieve if they do business with you?:
+#   Tell your customer everything they get:
+#   Be specific. Be Visual.:
+#   Include a headline: 
   
-guide:
-  - Empathetic and authoritative
-    - Testimonials
-    - Logos of companies you have worked with
-    - A simple statistic
-    - How can you resonate with your clients pain or problem?
-  - Authority
-    - Do not overdo the authority
-      - Overcome objections
-      - Solving problems
-      - Adding value
-    - Testimonials
+# guide:
+#   - Empathetic and authoritative
+#     - Testimonials
+#     - Logos of companies you have worked with
+#     - A simple statistic
+#     - How can you resonate with your clients pain or problem?
+#   - Authority
+#     - Do not overdo the authority
+#       - Overcome objections
+#       - Solving problems
+#       - Adding value
+#     - Testimonials
   
-plan: 
-  - Using Three Steps is the Key
-  - Can doing business with you be broken into 3 steps?
-  - Keep the plan visually simple
-  - Add benefits for the customers at each step
+# plan: 
+#   - Using Three Steps is the Key
+#   - Can doing business with you be broken into 3 steps?
+#   - Keep the plan visually simple
+#   - Add benefits for the customers at each step
   
-explanatory paragraph:
-  1. Identify who your customer wants to become
-  2. Identify what they want
-  3. Define the problem setting them back
-  4. Position you as their guide
-  5. Share a plan they can use to solve their problem (which includes your offer)
-  6. Call them action
-  7. Cast a vision for their lives
+# explanatory paragraph:
+#   1. Identify who your customer wants to become
+#   2. Identify what they want
+#   3. Define the problem setting them back
+#   4. Position you as their guide
+#   5. Share a plan they can use to solve their problem (which includes your offer)
+#   6. Call them action
+#   7. Cast a vision for their lives
   
-Sample: |
-At {Company Name} we know you are the kind of people who want to be {aspirational identity. What kind of person do they want to become?}
-In order to be that way, you need {as it relates to your product, what does your customer want?}. The problem is {what is the problem holding them back},
-which makes you feel {how is the problem making them feel?}. We believe {why is it just plain wrong that anybody should have to deal with that problem}.
-We understand {include an empathetic statement}.  That is why we {demonstrate competency to solve their problem}. Here is how it works
-{step 1, step 2, and step 3}. So {call them to action} so that you can stop {what negative thing will happen if they do not order} and start
-{what will their life look like if they do place an order}.
+# Sample: |
+# At {Company Name} we know you are the kind of people who want to be {aspirational identity. What kind of person do they want to become?}
+# In order to be that way, you need {as it relates to your product, what does your customer want?}. The problem is {what is the problem holding them back},
+# which makes you feel {how is the problem making them feel?}. We believe {why is it just plain wrong that anybody should have to deal with that problem}.
+# We understand {include an empathetic statement}.  That is why we {demonstrate competency to solve their problem}. Here is how it works
+# {step 1, step 2, and step 3}. So {call them to action} so that you can stop {what negative thing will happen if they do not order} and start
+# {what will their life look like if they do place an order}.
   
   
