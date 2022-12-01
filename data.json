@@ -1,5 +1,4 @@
-{
-  "data": { }
-}
-
-
+---
+layout: null
+---
+{{ site.data | jsonify }}
